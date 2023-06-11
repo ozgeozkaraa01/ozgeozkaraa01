@@ -18,8 +18,3 @@ Skills:
 <img src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgeozkaraa01&show_icons=true&locale=en&layout=compact" alt="ozgeozkaraa01"/></p>
-
-✍Check my recent post on Medium🌸
-<a target="_blank" href="https://medium.com/@ozgenurozkara/formik-yup-ile-react-form-y%C3%B6netimi-e2ba28c93aa1"><img src="https://medium.com/@ozgenurozkara/formik-yup-ile-react-form-y%C3%B6netimi-e2ba28c93aa1" alt="Medium 1">
-<a target="_blank" href="https://medium.com/@ozgenurozkara/css-kullan%C4%B1m%C4%B1-33a6454c9d66"><img src="https://medium.com/@ozgenurozkara/css-kullan%C4%B1m%C4%B1-33a6454c9d66" alt="Medium 2"> 
-
